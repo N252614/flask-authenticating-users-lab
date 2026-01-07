@@ -164,3 +164,29 @@ Before you submit your solution, you need to save your progress with git.
 3. Push your commits to GitHub by executing `git push origin main`.
 
 CodeGrade will grade your lab using the same tests as are provided in the `testing/` directory.
+
+## Flask Authentication Lab
+
+This project implements user authentication using Flask sessions.
+
+### Features
+- Login with username
+- Logout
+- Session-based authentication
+
+### Tests
+All tests pass successfully.
+
+## Flask Authentication Lab
+
+This project implements user authentication using Flask sessions.
+
+### Features
+- Login with username
+- Logout
+- Session-based authentication
+
+### Tests
+All tests pass successfully.
+
+![Tests Screenshot](./screenshot.png)
